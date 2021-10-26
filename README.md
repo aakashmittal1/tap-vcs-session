@@ -1,2 +1,9 @@
-# tap_vcs_session
-summary about the session on 26th Oct about VCS
+# Session Details
+
+1. Learned about VCS
+
+2. Learned about DVCS
+
+3. Difference between VCS and DVCS
+4. GitHub intro and walkthrough 
+
